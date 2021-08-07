@@ -45,13 +45,19 @@ TagManager:
   - name: Background
     uniqueID: 73483809
     locked: 0
-  - name: Mountains
+  - name: BackMountains
+    uniqueID: 3442285471
+    locked: 0
+  - name: FrontMountains
     uniqueID: 1476079789
     locked: 0
   - name: Player
     uniqueID: 931066691
     locked: 0
-  - name: Ground
+  - name: Fog
+    uniqueID: 752237673
+    locked: 0
+  - name: JumpLands
     uniqueID: 3322637571
     locked: 0
   - name: Foreground
